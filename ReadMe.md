@@ -1,6 +1,8 @@
 ﻿# Mouri's Internal NT API Collections (MINT)
 
-- [简体中文](自述.md)
+![Total Downloads](https://img.shields.io/github/downloads/Chuyu-Team/MINT/total)
+[![GitHub Releases](https://img.shields.io/github/v/release/Chuyu-Team/MINT?include_prereleases)](https://github.com/Chuyu-Team/MINT/releases)
+[![NuGet Package](https://img.shields.io/nuget/vpre/Chuyu.Mint)](https://www.nuget.org/packages/Chuyu.Mint)
 
 Mouri's Internal NT API Collections (MINT) was originally called NativeLib or 
 ChuyuWindowsInternalAPI. I have changed the name of this project because the 
@@ -33,5 +35,11 @@ License. Because the [System Informer (originally Process Hacker)] is
 distributed under the MIT License now and I'm glad to follow that.
 
 [System Informer (originally Process Hacker)]: https://github.com/winsiderss/systeminformer
+
+## Documents
+
+- [License](License.md)
+- [Release Notes](ReleaseNotes.md)
+- [Versioning](Versioning.md)
 
 ## Chuyu Team
